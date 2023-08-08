@@ -1,7 +1,7 @@
 # accessibility-by-building-a-quiz
 
 Pour activer les accesskey 
-ALT + SHIFT + {accesskey}
+ALT + SHIFT + {accesskey} pour firefox
 
 Merci Greg
 
